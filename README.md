@@ -1,43 +1,90 @@
-## 👤 Verificador de Idade
+# 
+
+### 
+
+#  👤 Verificador de Idade
 
 
 ## 📌 Descrição
 
-Projeto simples desenvolvido com HTML, CSS e JavaScript que permite ao usuário inserir seu ano de nascimento e, com base no ano atual, verifica sua idade e exibe uma mensagem personalizada, junto com uma imagem correspondente ao gênero e faixa etária.
+Projeto simples desenvolvido com HTML, CSS e JavaScript que permite ao usuário inserir seu ano de nascimento e, com base no **ano atual**, verifica sua idade e exibe uma mensagem personalizada, junto com uma imagem correspondente ao gênero e faixa etária.
 
 
 ## ✨ Funcionalidades
 
-🧮 Cálculo automático da idade com base no ano atual.
+🧮 - Cálculo automático da idade com base no ano atual.
 
-👩‍🦱 Exibição de mensagem e imagem de acordo com o gênero selecionado e idade calculada.
+👩‍🦱 - Exibição de mensagem e imagem de acordo com o gênero selecionado e idade calculada.
 
-📱 Interface simples e responsiva.
+📱 - Interface simples e responsiva.
 
 
 ## 🛠️ Tecnologias Utilizadas
 
-**HTML** → Estrutura da página.
-
-**CSS** → Estilização básica da interface.
-
-**JavaScript** → Lógica de verificação e manipulação do DOM.
+- **HTML** → Estrutura da página.
+- **CSS** → Estilização básica da interface.
+- **JavaScript** → Lógica de verificação e manipulação do DOM.
 
 
-## 🚀 Como Executar
+## 🔗  **Demonstração Online:** [Acesse aqui](https://isahpao.github.io/verificador-de-idade/)
 
-1️⃣ Clone o repositório:
 
+## 🚀 Como Rodar o Projeto
+
+Para testar o projeto localmente, siga os passos abaixo:
+
+### **1️⃣ Clone o repositório**
+
+```bash
 bash
-Copiar
-Editar
-git clone https://github.com/isahpao/verificador-de-idade.git
+CopiarEditar
+git clone https://github.com/seu-usuario/seu-repositorio.git
 
-2️⃣ Acesse a pasta do projeto:
+```
 
+### **2️⃣ Acesse a pasta do projeto**
+
+```bash
 bash
-Copiar
-Editar
-cd verificador-de-idade
+CopiarEditar
+cd nome-do-projeto
 
-3️⃣ Abra o arquivo index.html no navegador.
+```
+
+### **3️⃣ Instale as dependências**
+
+```bash
+bash
+CopiarEditar
+npm install
+
+```
+
+ou
+
+```bash
+bash
+CopiarEditar
+yarn install
+
+```
+
+### **4️⃣ Execute o projeto**
+
+```bash
+bash
+CopiarEditar
+npm start
+
+```
+
+ou
+
+```bash
+bash
+CopiarEditar
+yarn start
+
+```
+
+Agora, basta abrir o navegador e acessar `http://localhost:3000/`.
